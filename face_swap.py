@@ -5,7 +5,7 @@ import numpy as np
 # 入力ファイル
 video_path = 'driving.mp4'
 face_img_path = 'honke.png'  # 透過PNG
-output_path = 'TKK.mp4'
+output_path = 'complete.mp4'
 
 # 合成設定
 face_scale = 2.3     # 顔サイズ倍率
